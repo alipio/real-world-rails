@@ -152,10 +152,6 @@ Rails app for managing a conference CFP
 Create beautiful JavaScript charts with one line of Ruby [https://chartkick.com](https://chartkick.com)  
 [https://github.com/ankane/chartkick](https://github.com/ankane/chartkick)
 
-### classroom
-GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub. [https://classroom.github.com](https://classroom.github.com)  
-[https://github.com/education/classroom](https://github.com/education/classroom)
-
 ### cloudnet
 The Global Cloud Hosting Marketplace  
 [https://github.com/OnApp/cloudnet](https://github.com/OnApp/cloudnet)
@@ -845,5 +841,6 @@ Zammad is a web based open source helpdesk/customer support system [https://zamm
 ## Moved/Missing/Deleted Repos
 TODO: check the repos below - moved, renamed or deleted?
 
+- https://github.com/education/classroom
 - https://github.com/churchio/onebody
 - https://github.com/FlyoverWorks/storytime
