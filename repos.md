@@ -152,10 +152,6 @@ Rails app for managing a conference CFP
 Create beautiful JavaScript charts with one line of Ruby [https://chartkick.com](https://chartkick.com)  
 [https://github.com/ankane/chartkick](https://github.com/ankane/chartkick)
 
-### classroom
-GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub. [https://classroom.github.com](https://classroom.github.com)  
-[https://github.com/education/classroom](https://github.com/education/classroom)
-
 ### cloudnet
 The Global Cloud Hosting Marketplace  
 [https://github.com/OnApp/cloudnet](https://github.com/OnApp/cloudnet)
@@ -427,7 +423,7 @@ Secrets created by kevlar.io are kept until they are accessed, they are then del
 [https://github.com/adambutler/kevlar](https://github.com/adambutler/kevlar)
 
 ### kitsu-server
-:steam_locomotive: Rails API server for Kitsu [https://kitsu.io](https://kitsu.io)  
+:steam_locomotive: Rails API server for Kitsu [https://kitsu.app/api/playground](https://kitsu.app/api/playground)  
 [https://github.com/hummingbird-me/kitsu-server](https://github.com/hummingbird-me/kitsu-server)
 
 ### klaxon
@@ -755,7 +751,7 @@ A simple UI for browsing and inspecting diffs, and an API for runner scripts to 
 [https://github.com/wearefriday/spectre](https://github.com/wearefriday/spectre)
 
 ### spree
-An open source eCommerce platform giving you full control and customizability. Modular and API-first. Build any eCommerce solution that your business requires. [https://spreecommerce.org](https://spreecommerce.org)  
+An open source eCommerce platform giving you full control and customizability. Modular and API-first. Build any eCommerce solution that your business requires. Developed by @vendo-dev [https://spreecommerce.org](https://spreecommerce.org)  
 [https://github.com/spree/spree](https://github.com/spree/spree)
 
 ### stripe_event
@@ -845,5 +841,6 @@ Zammad is a web based open source helpdesk/customer support system [https://zamm
 ## Moved/Missing/Deleted Repos
 TODO: check the repos below - moved, renamed or deleted?
 
+- https://github.com/education/classroom
 - https://github.com/churchio/onebody
 - https://github.com/FlyoverWorks/storytime
